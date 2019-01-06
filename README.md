@@ -266,7 +266,7 @@ http://codejoncode.pythonanywhere.com/simple_app_with_pluralsight/basics/random_
 
 http://codejoncode.pythonanywhere.com/simple_app_with_pluralsight/basics/request_vars 
 
-Again very simple but hopefully enough to get you excited about the possibilities in Python Web development. Unique stacks can make you stand out and certain the more stacks you have in your tool box the more you stand out as a web engineer.   This readme was create for practice, educational purposes and was used with help from a pluralsight lecture I got the chance to watch.  
+Again very simple but hopefully enough to get you excited about the possibilities in Python Web development. Unique stacks can make you stand out and certain the more stacks you have in your tool box the more you stand out as a web engineer.   This readme was create for practice, educational purposes and was used with help from a pluralsight lecture I got the chance to watch.  Besure to check out the views and controllers  I made copies of to include in this repo.  Note that without actually downloading and using the web2py  application the code will not work the same. The copies just , hopefully, illustrates the steps a bit more clearly. 
 
 **Problems**
 
